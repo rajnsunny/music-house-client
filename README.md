@@ -20,6 +20,7 @@ DataBase: MongoDB | Firebase <br/>
   
     ### Dependencies:
       you have to use appropriate .env file. (sample is given.)
+      you may have to install appropriate node_modules to run on local port 3000.
   
   ### Issues:
   some features are not implemented at this moment. <br/>
