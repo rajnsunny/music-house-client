@@ -17,6 +17,9 @@ DataBase: MongoDB | Firebase <br/>
  ## Local Setup
   will update soon.
   
+    ### Dependencies:
+      you have to use appropriate .env file. (sample is given.)
+  
   ### Issues:
   some features are not implemented at this moment. <br/>
   this is in development phase. <br/>
